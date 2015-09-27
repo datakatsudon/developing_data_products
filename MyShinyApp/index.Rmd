@@ -1,0 +1,45 @@
+---
+title       : Treadmill Calorie Calculator
+subtitle    : 
+author      : datakatsudon
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## App
+
+- This app is a an app that calculates the number of calories you burn on the treadmill based on your inputs
+
+--- 
+
+## Selections
+
+- The inputs include:
+
+1. Duration
+2. Weight
+3. Speed
+
+
+---
+
+## Weird Selections
+
+- You are also asked if you are human or dog
+
+---
+
+## Output
+
+- The output calculates the number of calories you burn on the treadmill
+- Enjoy!
+
+---
+
+
+
